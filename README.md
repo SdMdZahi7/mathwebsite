@@ -238,7 +238,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![output](./outlook.PNG)
+![outlook](https://user-images.githubusercontent.com/94187572/149652947-cde994b5-67cf-4f99-b01c-088e9f3afc10.PNG)
+
 ## VALIDATIONS:
 ![result](./ra.PNG)
 ![open](./leng.PNG)
