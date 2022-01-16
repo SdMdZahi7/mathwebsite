@@ -239,6 +239,12 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ![outlook](https://user-images.githubusercontent.com/94187572/149652947-cde994b5-67cf-4f99-b01c-088e9f3afc10.PNG)
+
+## VALIDATION:
+![ra](https://user-images.githubusercontent.com/94187572/149653502-10ba1ac4-bef8-4608-a777-302aee678cfd.PNG)
+![leng](https://user-images.githubusercontent.com/94187572/149653525-68eeded6-5906-4950-b873-614873613bbb.PNG)
+![width](https://user-images.githubusercontent.com/94187572/149653560-189bfea1-5f81-4997-b908-3e3b20bb7868.PNG)
+
 ## Result:
 
 Thus a website is designed to perform mathematical calculations in the client side.
